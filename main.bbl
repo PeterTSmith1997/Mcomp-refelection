@@ -16,5 +16,68 @@
   {}
 \endgroup
 
-\datalist[entry]{nyt/global//global/global}\enddatalist
+\datalist[entry]{nyt/global//global/global}
+  \entry{dyment2010quality}{article}{}
+    \name{author}{2}{}{%
+      {{hash=DJE}{%
+         family={Dyment},
+         familyi={D\bibinitperiod},
+         given={Janet\bibnamedelima E},
+         giveni={J\bibinitperiod\bibinitdelim E\bibinitperiod},
+      }}%
+      {{hash=OTS}{%
+         family={O’connell},
+         familyi={O\bibinitperiod},
+         given={Timothy\bibnamedelima S},
+         giveni={T\bibinitperiod\bibinitdelim S\bibinitperiod},
+      }}%
+    }
+    \list{publisher}{1}{%
+      {Springer}%
+    }
+    \strng{namehash}{DJEOTS1}
+    \strng{fullhash}{DJEOTS1}
+    \field{labelnamesource}{author}
+    \field{labeltitlesource}{title}
+    \field{labelyear}{2010}
+    \field{labeldatesource}{}
+    \field{sortinit}{D}
+    \field{sortinithash}{D}
+    \field{pages}{233\bibrangedash 244}
+    \field{title}{The quality of reflection in student journals: A review of
+  limiting and enabling factors}
+    \field{volume}{35}
+    \field{journaltitle}{Innovative Higher Education}
+    \field{year}{2010}
+  \endentry
+
+  \entry{Schon83}{book}{}
+    \name{author}{1}{}{%
+      {{hash=SD}{%
+         family={Schon},
+         familyi={S\bibinitperiod},
+         given={D},
+         giveni={D},
+      }}%
+    }
+    \list{publisher}{1}{%
+      {Temple Smith}%
+    }
+    \keyw{myown}
+    \strng{namehash}{SD1}
+    \strng{fullhash}{SD1}
+    \field{labelnamesource}{author}
+    \field{labeltitlesource}{title}
+    \field{labelyear}{1983}
+    \field{labeldatesource}{}
+    \field{sortinit}{S}
+    \field{sortinithash}{S}
+    \field{title}{The reflective practitioner. {H}ow professionals think in
+  action}
+    \list{location}{1}{%
+      {London}%
+    }
+    \field{year}{1983}
+  \endentry
+\enddatalist
 \endinput
