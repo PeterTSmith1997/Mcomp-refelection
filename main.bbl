@@ -51,6 +51,35 @@
     \field{year}{2010}
   \endentry
 
+  \entry{levasseur2010people}{article}{}
+    \name{author}{1}{}{%
+      {{hash=LRE}{%
+         family={Levasseur},
+         familyi={L\bibinitperiod},
+         given={Robert\bibnamedelima E},
+         giveni={R\bibinitperiod\bibinitdelim E\bibinitperiod},
+      }}%
+    }
+    \list{publisher}{1}{%
+      {Informs}%
+    }
+    \strng{namehash}{LRE1}
+    \strng{fullhash}{LRE1}
+    \field{labelnamesource}{author}
+    \field{labeltitlesource}{title}
+    \field{labelyear}{2010}
+    \field{labeldatesource}{}
+    \field{sortinit}{L}
+    \field{sortinithash}{L}
+    \field{number}{2}
+    \field{pages}{159\bibrangedash 162}
+    \field{title}{People skills: Ensuring project success—A change management
+  perspective}
+    \field{volume}{40}
+    \field{journaltitle}{Interfaces}
+    \field{year}{2010}
+  \endentry
+
   \entry{Schon83}{book}{}
     \name{author}{1}{}{%
       {{hash=SD}{%
