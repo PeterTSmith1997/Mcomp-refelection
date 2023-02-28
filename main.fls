@@ -1113,6 +1113,13 @@ INPUT main.toc
 INPUT /opt/texlive/texdir/texmf-dist/fonts/tfm/public/cm/cmbx10.tfm
 OUTPUT main.toc
 INPUT /opt/texlive/texdir/texmf-dist/fonts/tfm/jknappen/ec/tcrm1000.tfm
+INPUT ./Team.tex
+INPUT ./Team.tex
+INPUT ./Team.tex
+INPUT Team.tex
+INPUT ./Team.tex
+INPUT ./Team.tex
+INPUT Team.tex
 INPUT ./Motivation.tex
 INPUT ./Motivation.tex
 INPUT ./Motivation.tex
