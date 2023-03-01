@@ -108,5 +108,51 @@
     }
     \field{year}{1983}
   \endentry
+
+  \entry{thurow1999dynamics}{article}{}
+    \name{author}{4}{}{%
+      {{hash=TAP}{%
+         family={Thurow},
+         familyi={T\bibinitperiod},
+         given={Amy\bibnamedelima Purvis},
+         giveni={A\bibinitperiod\bibinitdelim P\bibinitperiod},
+      }}%
+      {{hash=ACW}{%
+         family={Abdalla},
+         familyi={A\bibinitperiod},
+         given={Charles\bibnamedelima William},
+         giveni={C\bibinitperiod\bibinitdelim W\bibinitperiod},
+      }}%
+      {{hash=YWJ}{%
+         family={Younglove-Webb},
+         familyi={Y\bibinithyphendelim W\bibinitperiod},
+         given={Julie},
+         giveni={J\bibinitperiod},
+      }}%
+      {{hash=GB}{%
+         family={Gray},
+         familyi={G\bibinitperiod},
+         given={Barbara},
+         giveni={B\bibinitperiod},
+      }}%
+    }
+    \list{publisher}{1}{%
+      {Johns Hopkins University Press}%
+    }
+    \strng{namehash}{TAP+1}
+    \strng{fullhash}{TAPACWYWJGB1}
+    \field{labelnamesource}{author}
+    \field{labeltitlesource}{title}
+    \field{labelyear}{1999}
+    \field{labeldatesource}{}
+    \field{sortinit}{T}
+    \field{sortinithash}{T}
+    \field{number}{4}
+    \field{pages}{425\bibrangedash 440}
+    \field{title}{The dynamics of multidisciplinary research teams in academia}
+    \field{volume}{22}
+    \field{journaltitle}{The review of higher education}
+    \field{year}{1999}
+  \endentry
 \enddatalist
 \endinput
