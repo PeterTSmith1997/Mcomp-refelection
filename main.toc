@@ -1,9 +1,12 @@
 \babel@toc {english}{}\relax 
-\contentsline {section}{\numberline {1}Possible Topics}{1}{section.1}%
-\contentsline {section}{\numberline {2}group vs individual}{1}{section.2}%
-\contentsline {section}{\numberline {3}Background, Motivation, Sources of Knowledge}{2}{section.3}%
-\contentsline {section}{\numberline {4}Relevance}{3}{section.4}%
-\contentsline {section}{\numberline {5}Scope, Objectives and Risk}{3}{section.5}%
-\contentsline {subsection}{\numberline {5.1}Scope}{3}{subsection.5.1}%
-\contentsline {subsection}{\numberline {5.2}Objectives}{3}{subsection.5.2}%
-\contentsline {subsection}{\numberline {5.3}Risk}{3}{subsection.5.3}%
+\contentsline {section}{\numberline {1}group vs individual}{1}{section.1}%
+\contentsline {section}{\numberline {2}Background, Motivation, Sources of Knowledge}{2}{section.2}%
+\contentsline {section}{\numberline {3}Relevance}{3}{section.3}%
+\contentsline {section}{\numberline {4}Scope, Objectives and Risk}{3}{section.4}%
+\contentsline {subsection}{\numberline {4.1}Scope}{3}{subsection.4.1}%
+\contentsline {subsection}{\numberline {4.2}Objectives}{3}{subsection.4.2}%
+\contentsline {subsection}{\numberline {4.3}Risk}{3}{subsection.4.3}%
+\contentsline {section}{\numberline {5}Ethics, Legal, Social, Security and Professional Issues}{3}{section.5}%
+\contentsline {subsection}{\numberline {5.1}Ethics}{3}{subsection.5.1}%
+\contentsline {section}{\numberline {6}Legal Issues}{4}{section.6}%
+\contentsline {section}{\numberline {7}bibliography}{4}{section.7}%
