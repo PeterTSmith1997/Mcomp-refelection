@@ -51,6 +51,72 @@
     \field{year}{2010}
   \endentry
 
+  \entry{figg2006scientific}{article}{}
+    \name{author}{7}{}{%
+      {{hash=FWD}{%
+         family={Figg},
+         familyi={F\bibinitperiod},
+         given={William\bibnamedelima D},
+         giveni={W\bibinitperiod\bibinitdelim D\bibinitperiod},
+      }}%
+      {{hash=DL}{%
+         family={Dunn},
+         familyi={D\bibinitperiod},
+         given={Lara},
+         giveni={L\bibinitperiod},
+      }}%
+      {{hash=LDJ}{%
+         family={Liewehr},
+         familyi={L\bibinitperiod},
+         given={David\bibnamedelima J},
+         giveni={D\bibinitperiod\bibinitdelim J\bibinitperiod},
+      }}%
+      {{hash=SSM}{%
+         family={Steinberg},
+         familyi={S\bibinitperiod},
+         given={Seth\bibnamedelima M},
+         giveni={S\bibinitperiod\bibinitdelim M\bibinitperiod},
+      }}%
+      {{hash=TPW}{%
+         family={Thurman},
+         familyi={T\bibinitperiod},
+         given={Paul\bibnamedelima W},
+         giveni={P\bibinitperiod\bibinitdelim W\bibinitperiod},
+      }}%
+      {{hash=BJC}{%
+         family={Barrett},
+         familyi={B\bibinitperiod},
+         given={J\bibnamedelima Carl},
+         giveni={J\bibinitperiod\bibinitdelim C\bibinitperiod},
+      }}%
+      {{hash=BJ}{%
+         family={Birkinshaw},
+         familyi={B\bibinitperiod},
+         given={Julian},
+         giveni={J\bibinitperiod},
+      }}%
+    }
+    \list{publisher}{1}{%
+      {Wiley Online Library}%
+    }
+    \strng{namehash}{FWD+1}
+    \strng{fullhash}{FWDDLLDJSSMTPWBJCBJ1}
+    \field{labelnamesource}{author}
+    \field{labeltitlesource}{title}
+    \field{labelyear}{2006}
+    \field{labeldatesource}{}
+    \field{sortinit}{F}
+    \field{sortinithash}{F}
+    \field{number}{6}
+    \field{pages}{759\bibrangedash 767}
+    \field{title}{Scientific collaboration results in higher citation rates of
+  published articles}
+    \field{volume}{26}
+    \field{journaltitle}{Pharmacotherapy: The Journal of Human Pharmacology and
+  Drug Therapy}
+    \field{year}{2006}
+  \endentry
+
   \entry{levasseur2010people}{article}{}
     \name{author}{1}{}{%
       {{hash=LRE}{%
