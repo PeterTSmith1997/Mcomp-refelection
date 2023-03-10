@@ -175,6 +175,44 @@
     \field{year}{1983}
   \endentry
 
+  \entry{Shenhar1}{article}{}
+    \name{author}{1}{}{%
+      {{hash=SAJ}{%
+         family={Shenhar},
+         familyi={S\bibinitperiod},
+         given={A.\bibnamedelima J.},
+         giveni={A\bibinitperiod\bibinitdelim J\bibinitperiod},
+      }}%
+    }
+    \keyw{management science;project engineering;project management;case
+  projects;contingency approach;operational practice;organizations;project
+  classification;project management styles;technological
+  uncertainty;two-dimensional theoretical model;Chemical industry;Construction
+  industry;Consumer electronics;Defense industry;Electronics
+  industry;Impedance;Project management;Research and development
+  management;Technology management;Uncertainty}
+    \strng{namehash}{SAJ1}
+    \strng{fullhash}{SAJ1}
+    \field{labelnamesource}{author}
+    \field{labeltitlesource}{title}
+    \field{labelyear}{1998}
+    \field{labeldatesource}{}
+    \field{sortinit}{S}
+    \field{sortinithash}{S}
+    \verb{doi}
+    \verb 10.1109/17.658659
+    \endverb
+    \field{issn}{0018-9391}
+    \field{number}{1}
+    \field{pages}{33\bibrangedash 48}
+    \field{title}{From theory to practice: toward a typology of
+  project-management styles}
+    \field{volume}{45}
+    \field{journaltitle}{IEEE Transactions on Engineering Management}
+    \field{year}{1998}
+    \warn{\item Invalid format of field 'month'}
+  \endentry
+
   \entry{thurow1999dynamics}{article}{}
     \name{author}{4}{}{%
       {{hash=TAP}{%
