@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.141592653-2.6-1.40.24 (TeX Live 2022) (preloaded format=pdflatex 2023.3.1)  10 MAR 2023 14:03
+This is pdfTeX, Version 3.141592653-2.6-1.40.24 (TeX Live 2022) (preloaded format=pdflatex 2023.3.1)  10 MAR 2023 14:40
 entering extended mode
  restricted \write18 enabled.
  file:line:error style messages enabled.
@@ -1110,7 +1110,13 @@ Package biblatex Info: Data encoding 'utf8' specified.
 
 Package biblatex Info: Trying to load bibliographic data...
 Package biblatex Info: ... file 'main.bbl' found.
- (./main.bbl)
+ (./main.bbl
+
+Package biblatex Warning: BibTeX reported the following issues
+(biblatex)                with 'Shenhar1':
+(biblatex)                - Invalid format of field 'month'.
+
+)
 Package biblatex Info: Reference section=0 on input line 44.
 Package biblatex Info: Reference segment=0 on input line 44.
  (./main.toc)
@@ -1120,34 +1126,51 @@ Package biblatex Info: Reference segment=0 on input line 44.
  (./sor.tex [1
 
 {/opt/texlive/texdir/texmf-var/fonts/map/pdftex/updmap/pdftex.map}]) (./Team.te
-x [2]) (./Motivation.tex [3]) (./Relevance.tex)
-(./legal.tex) [4] 
+x
+
+LaTeX Warning: Citation 'GanttPRO' on page 2 undefined on input line 8.
+
+
+LaTeX Warning: Citation 'GanttPRO' on page 2 undefined on input line 8.
+
+[2]) (./Motivation.tex [3]) (./Relevance.tex) (./legal.tex) [4]
+
 AED: lastpage setting LastPage
 [5] (./main.aux)
+
+LaTeX Warning: There were undefined references.
+
 Package rerunfilecheck Info: File `main.out' has not changed.
 (rerunfilecheck)             Checksum: 7F268B9D7EB696FD2AB219A0F4691A7F;1589.
+
+Package biblatex Warning: Please (re)run BibTeX on the file(s):
+(biblatex)                main
+(biblatex)                and rerun LaTeX afterwards.
+
 Package logreq Info: Writing requests to 'main.run.xml'.
 \openout1 = `main.run.xml'.
 
  ) 
 Here is how much of TeX's memory you used:
- 33026 strings out of 476024
- 645136 string characters out of 5792021
+ 33040 strings out of 476024
+ 645835 string characters out of 5792021
  1864388 words of memory out of 5000000
- 52948 multiletter control sequences out of 15000+600000
- 518016 words of font info for 52 fonts, out of 8000000 for 9000
+ 52959 multiletter control sequences out of 15000+600000
+ 518485 words of font info for 54 fonts, out of 8000000 for 9000
  1141 hyphenation exceptions out of 8191
- 99i,11n,94p,1878b,1819s stack positions out of 10000i,1000n,20000p,200000b,200000s
+ 99i,12n,94p,1878b,1819s stack positions out of 10000i,1000n,20000p,200000b,200000s
 </opt/texlive/texdir/texmf-dist/fonts/type1/public/amsfonts/cm/cmbx10.pfb></o
 pt/texlive/texdir/texmf-dist/fonts/type1/public/amsfonts/cm/cmbx12.pfb></opt/te
-xlive/texdir/texmf-dist/fonts/type1/public/amsfonts/cm/cmr10.pfb></opt/texlive/
-texdir/texmf-dist/fonts/type1/public/amsfonts/cm/cmr12.pfb></opt/texlive/texdir
-/texmf-dist/fonts/type1/public/amsfonts/cm/cmr17.pfb></opt/texlive/texdir/texmf
--dist/fonts/type1/public/amsfonts/cm/cmti10.pfb>
-Output written on main.pdf (5 pages, 112629 bytes).
+xlive/texdir/texmf-dist/fonts/type1/public/amsfonts/cm/cmcsc10.pfb></opt/texliv
+e/texdir/texmf-dist/fonts/type1/public/amsfonts/cm/cmr10.pfb></opt/texlive/texd
+ir/texmf-dist/fonts/type1/public/amsfonts/cm/cmr12.pfb></opt/texlive/texdir/tex
+mf-dist/fonts/type1/public/amsfonts/cm/cmr17.pfb></opt/texlive/texdir/texmf-dis
+t/fonts/type1/public/amsfonts/cm/cmti10.pfb></opt/texlive/texdir/texmf-dist/fon
+ts/type1/public/amsfonts/cm/cmtt10.pfb>
+Output written on main.pdf (5 pages, 133408 bytes).
 PDF statistics:
- 139 PDF objects out of 1000 (max. 8388607)
- 118 compressed objects within 2 object streams
- 24 named destinations out of 1000 (max. 500000)
+ 153 PDF objects out of 1000 (max. 8388607)
+ 128 compressed objects within 2 object streams
+ 25 named destinations out of 1000 (max. 500000)
  101 words of extra memory for PDF output out of 10000 (max. 10000000)
 

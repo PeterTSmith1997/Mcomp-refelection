@@ -1152,6 +1152,8 @@ INPUT ./legal.tex
 INPUT ./legal.tex
 INPUT legal.tex
 INPUT /opt/texlive/texdir/texmf-dist/fonts/tfm/public/cm/cmti10.tfm
+INPUT /opt/texlive/texdir/texmf-dist/fonts/tfm/public/cm/cmcsc10.tfm
+INPUT /opt/texlive/texdir/texmf-dist/fonts/tfm/public/cm/cmtt10.tfm
 INPUT main.aux
 INPUT ./main.out
 INPUT ./main.out
@@ -1159,7 +1161,9 @@ INPUT main.run.xml
 OUTPUT main.run.xml
 INPUT /opt/texlive/texdir/texmf-dist/fonts/type1/public/amsfonts/cm/cmbx10.pfb
 INPUT /opt/texlive/texdir/texmf-dist/fonts/type1/public/amsfonts/cm/cmbx12.pfb
+INPUT /opt/texlive/texdir/texmf-dist/fonts/type1/public/amsfonts/cm/cmcsc10.pfb
 INPUT /opt/texlive/texdir/texmf-dist/fonts/type1/public/amsfonts/cm/cmr10.pfb
 INPUT /opt/texlive/texdir/texmf-dist/fonts/type1/public/amsfonts/cm/cmr12.pfb
 INPUT /opt/texlive/texdir/texmf-dist/fonts/type1/public/amsfonts/cm/cmr17.pfb
 INPUT /opt/texlive/texdir/texmf-dist/fonts/type1/public/amsfonts/cm/cmti10.pfb
+INPUT /opt/texlive/texdir/texmf-dist/fonts/type1/public/amsfonts/cm/cmtt10.pfb
