@@ -1,4 +1,4 @@
-This is BibTeX, Version 0.99d (TeX Live 2022)
+This is BibTeX, Version 0.99d (TeX Live 2023)
 Capacity: max_strings=200000, hash_size=200000, hash_prime=170003
 The top-level auxiliary file: main.aux
 The style file: biblatex.bst
@@ -20,29 +20,29 @@ Reallocated singl_function (elt_size=4) to 100 items from 50.
 Database file #1: main-blx.bib
 Database file #2: writing.bib
 Warning--I didn't find a database entry for "GanttPRO"
-Biblatex version: 3.18
+Biblatex version: 3.19
 Reallocated wiz_functions (elt_size=4) to 9000 items from 6000.
 Reallocated singl_function (elt_size=4) to 100 items from 50.
 You've used 7 entries,
             6399 wiz_defined-function locations,
-            1256 strings with 10621 characters,
-and the built_in function-call counts, 60927 in all, are:
-= -- 5193
+            1256 strings with 10623 characters,
+and the built_in function-call counts, 60939 in all, are:
+= -- 5194
 > -- 733
 < -- 230
 + -- 1519
 - -- 239
-* -- 4601
-:= -- 6923
+* -- 4602
+:= -- 6925
 add.period$ -- 0
 call.type$ -- 7
 change.case$ -- 154
 chr.to.int$ -- 43
 cite$ -- 12
 duplicate$ -- 5492
-empty$ -- 5504
+empty$ -- 5505
 format.name$ -- 407
-if$ -- 12523
+if$ -- 12526
 int.to.chr$ -- 0
 int.to.str$ -- 18
 missing$ -- 0
@@ -52,9 +52,9 @@ pop$ -- 2234
 preamble$ -- 1
 purify$ -- 187
 quote$ -- 0
-skip$ -- 1328
+skip$ -- 1329
 stack$ -- 0
-substring$ -- 10476
+substring$ -- 10479
 swap$ -- 1098
 text.length$ -- 176
 text.prefix$ -- 7
