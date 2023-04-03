@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.141592653-2.6-1.40.24 (TeX Live 2022) (preloaded format=pdflatex 2023.3.1)  17 MAR 2023 16:05
+This is pdfTeX, Version 3.141592653-2.6-1.40.25 (TeX Live 2023) (preloaded format=pdflatex 2023.4.1)  3 APR 2023 13:56
 entering extended mode
  restricted \write18 enabled.
  file:line:error style messages enabled.
@@ -6,7 +6,7 @@ entering extended mode
 **main.tex
 (./main.tex
 LaTeX2e <2022-11-01> patch level 1
-L3 programming layer <2023-02-22>
+L3 programming layer <2023-03-30>
 (/opt/texlive/texdir/texmf-dist/tex/latex/base/article.cls
 Document Class: article 2022/07/02 v1.4n Standard LaTeX document class
 (/opt/texlive/texdir/texmf-dist/tex/latex/base/size10.clo
@@ -47,7 +47,7 @@ Package xcolor Info: Model `Gray' substituted by `gray' on input line 1375.
 Package xcolor Info: Model `wave' substituted by `hsb' on input line 1376.
 )
 (/opt/texlive/texdir/texmf-dist/tex/generic/babel/babel.sty
-Package: babel 2023/02/13 3.86 The Babel package
+Package: babel 2023/03/28 3.87 The Babel package
 \babel@savecnt=\count193
 \U@D=\dimen141
 \l@unhyphenated=\language87
@@ -584,7 +584,7 @@ LaTeX Info: Redefining \addtolength on input line 81.
 \calc@Cskip=\skip64
 )
 (/opt/texlive/texdir/texmf-dist/tex/latex/eso-pic/eso-pic.sty
-Package: eso-pic 2020/10/14 v3.0a eso-pic (RN)
+Package: eso-pic 2023/03/23 v3.0b eso-pic (RN)
 \ESO@tempdima=\dimen262
 \ESO@tempdimb=\dimen263
 )
@@ -743,16 +743,23 @@ Package uniquecounter Info: New unique counter `rerunfilecheck' on input line 2
 Package: wrapfig 2003/01/31  v 3.6
 )
 (/opt/texlive/texdir/texmf-dist/tex/latex/lastpage/lastpage.sty
-Package: lastpage 2021/09/03 v1.2n Refers to last page's name (HMM; JPG)
-)
-(/opt/texlive/texdir/texmf-dist/tex/latex/caption/subcaption.sty
-Package: subcaption 2022/01/07 v1.5 Sub-captions (AR)
+Package: lastpage 2023/03/07 v2.0a lastpage: 2.09 or 2e? (HMM)
+
+(/opt/texlive/texdir/texmf-dist/tex/latex/lastpage/lastpage2e.sty
+Package: lastpage2e 2023/03/07 v2.0a Decide which 2e lastpage version to use (H
+MM)
+
+(/opt/texlive/texdir/texmf-dist/tex/latex/lastpage/lastpagemodern.sty
+Package: lastpagemodern 2023-03-07 v2.0a Refers to last page's name (HMM; JPG)
+) 
+)) (/opt/texlive/texdir/texmf-dist/tex/latex/caption/subcaption.sty
+Package: subcaption 2023/02/19 v1.6 Sub-captions (AR)
 
 (/opt/texlive/texdir/texmf-dist/tex/latex/caption/caption.sty
-Package: caption 2022/03/01 v3.6b Customizing captions (AR)
+Package: caption 2023/03/12 v3.6j Customizing captions (AR)
 
 (/opt/texlive/texdir/texmf-dist/tex/latex/caption/caption3.sty
-Package: caption3 2022/03/17 v2.3b caption3 kernel (AR)
+Package: caption3 2023/03/12 v2.4 caption3 kernel (AR)
 \caption@tempdima=\dimen273
 \captionmargin=\dimen274
 \caption@leftmargin=\dimen275
@@ -768,11 +775,13 @@ Package caption Info: Standard document class detected.
 Package caption Info: hyperref package is loaded.
 Package caption Info: wrapfig package is loaded.
 )
+Package caption Info: New subtype `subfigure' on input line 239.
 \c@subfigure=\count348
+Package caption Info: New subtype `subtable' on input line 239.
 \c@subtable=\count349
 )
 (/opt/texlive/texdir/texmf-dist/tex/latex/biblatex/biblatex.sty
-Package: biblatex 2022/07/12 v3.18b programmable bibliographies (PK/MW)
+Package: biblatex 2023/03/05 v3.19 programmable bibliographies (PK/MW)
 
 (/opt/texlive/texdir/texmf-dist/tex/latex/logreq/logreq.sty
 Package: logreq 2010/08/04 v1.0 xml request logger
@@ -842,7 +851,7 @@ Package biblatex Info: Trying to load biblatex default data model...
 Package biblatex Info: ... file 'blx-dm.def' found.
 
 (/opt/texlive/texdir/texmf-dist/tex/latex/biblatex/blx-dm.def
-File: blx-dm.def 2022/07/12 v3.18b biblatex localization (PK/MW)
+File: blx-dm.def 2023/03/05 v3.19 biblatex localization (PK/MW)
 )
 Package biblatex Info: Trying to load biblatex style data model...
 Package biblatex Info: ... file 'authoryear-ibid.dbx' not found.
@@ -934,23 +943,23 @@ Package biblatex Info: Trying to load compatibility code...
 Package biblatex Info: ... file 'blx-compat.def' found.
 
 (/opt/texlive/texdir/texmf-dist/tex/latex/biblatex/blx-compat.def
-File: blx-compat.def 2022/07/12 v3.18b biblatex compatibility (PK/MW)
+File: blx-compat.def 2023/03/05 v3.19 biblatex compatibility (PK/MW)
 )
 Package biblatex Info: Trying to load BibTeX backend compatibility...
 Package biblatex Info: ... file 'blx-bibtex.def' found.
 
 (/opt/texlive/texdir/texmf-dist/tex/latex/biblatex/blx-bibtex.def
-File: blx-bibtex.def 2022/07/12 v3.18b biblatex compatibility (PK/MW)
+File: blx-bibtex.def 2023/03/05 v3.19 biblatex compatibility (PK/MW)
 
 
-Package biblatex Warning: Using fall-back BibTeX(8) backend:
+Package biblatex Warning: Using fall-back bibtex backend:
 (biblatex)                functionality may be reduced/unavailable.
 
 )
 Package biblatex Info: Trying to load generic definitions...
 Package biblatex Info: ... file 'biblatex.def' found.
  (/opt/texlive/texdir/texmf-dist/tex/latex/biblatex/biblatex.def
-File: biblatex.def 2022/07/12 v3.18b biblatex compatibility (PK/MW)
+File: biblatex.def 2023/03/05 v3.19 biblatex compatibility (PK/MW)
 \c@textcitecount=\count465
 \c@textcitetotal=\count466
 \c@textcitemaxnames=\count467
@@ -969,18 +978,17 @@ Package biblatex Info: Trying to load bibliography style 'authoryear-ibid'...
 Package biblatex Info: ... file 'authoryear-ibid.bbx' found.
 
 (/opt/texlive/texdir/texmf-dist/tex/latex/biblatex/bbx/authoryear-ibid.bbx
-File: authoryear-ibid.bbx 2022/07/12 v3.18b biblatex bibliography style (PK/MW)
-
+File: authoryear-ibid.bbx 2023/03/05 v3.19 biblatex bibliography style (PK/MW)
 Package biblatex Info: Trying to load bibliography style 'authoryear'...
 Package biblatex Info: ... file 'authoryear.bbx' found.
 
 (/opt/texlive/texdir/texmf-dist/tex/latex/biblatex/bbx/authoryear.bbx
-File: authoryear.bbx 2022/07/12 v3.18b biblatex bibliography style (PK/MW)
+File: authoryear.bbx 2023/03/05 v3.19 biblatex bibliography style (PK/MW)
 Package biblatex Info: Trying to load bibliography style 'standard'...
 Package biblatex Info: ... file 'standard.bbx' found.
 
 (/opt/texlive/texdir/texmf-dist/tex/latex/biblatex/bbx/standard.bbx
-File: standard.bbx 2022/07/12 v3.18b biblatex bibliography style (PK/MW)
+File: standard.bbx 2023/03/05 v3.19 biblatex bibliography style (PK/MW)
 \c@bbx:relatedcount=\count474
 \c@bbx:relatedtotal=\count475
 )))
@@ -988,7 +996,7 @@ Package biblatex Info: Trying to load citation style 'authoryear-ibid'...
 Package biblatex Info: ... file 'authoryear-ibid.cbx' found.
 
 (/opt/texlive/texdir/texmf-dist/tex/latex/biblatex/cbx/authoryear-ibid.cbx
-File: authoryear-ibid.cbx 2022/07/12 v3.18b biblatex citation style (PK/MW)
+File: authoryear-ibid.cbx 2023/03/05 v3.19 biblatex citation style (PK/MW)
 Package biblatex Info: Redefining '\cite'.
 Package biblatex Info: Redefining '\parencite'.
 Package biblatex Info: Redefining '\footcite'.
@@ -1007,15 +1015,15 @@ Package biblatex Info: Input encoding 'utf8' detected.
 Package biblatex Info: Document encoding is UTF8 ....
 
 (/opt/texlive/texdir/texmf-dist/tex/latex/l3kernel/expl3.sty
-Package: expl3 2023-02-22 L3 programming layer (loader) 
+Package: expl3 2023-03-30 L3 programming layer (loader) 
 
 (/opt/texlive/texdir/texmf-dist/tex/latex/l3backend/l3backend-pdftex.def
-File: l3backend-pdftex.def 2023-01-16 L3 backend support: PDF output (pdfTeX)
+File: l3backend-pdftex.def 2023-03-30 L3 backend support: PDF output (pdfTeX)
 \l__color_backend_stack_int=\count476
 \l__pdf_internal_box=\box69
 ))
 Package biblatex Info: ... and expl3
-(biblatex)             2023-02-22 L3 programming layer (loader) 
+(biblatex)             2023-03-30 L3 programming layer (loader) 
 (biblatex)             is new enough (at least 2020/04/06),
 (biblatex)             setting 'casechanger=expl3'.
 
@@ -1023,8 +1031,7 @@ Package biblatex Info: ... and expl3
 (/opt/texlive/texdir/texmf-dist/tex/latex/l3packages/xparse/xparse.sty
 Package: xparse 2023-02-02 L3 Experimental document command parser
 )
-Package: blx-case-expl3 2022/07/12 v3.18b expl3 case changing code for biblatex
-
+Package: blx-case-expl3 2023/03/05 v3.19 expl3 case changing code for biblatex
 ))
 Package csquotes Info: Checking for multilingual support...
 Package csquotes Info: ... found 'babel' package.
@@ -1089,16 +1096,13 @@ Package hyperref Info: Link coloring OFF on input line 44.
 \@outlinefile=\write5
 \openout5 = `main.out'.
 
-Package lastpage Info: Please have a look at the pageslts package at
-(lastpage)             https://www.ctan.org/pkg/pageslts
-(lastpage)             ! on input line 44.
 Package caption Info: Begin \AtBeginDocument code.
 Package caption Info: End \AtBeginDocument code.
 Package biblatex Info: Trying to load language 'english'...
 Package biblatex Info: ... file 'english.lbx' found.
 
 (/opt/texlive/texdir/texmf-dist/tex/latex/biblatex/lbx/english.lbx
-File: english.lbx 2022/07/12 v3.18b biblatex localization (PK/MW)
+File: english.lbx 2023/03/05 v3.19 biblatex localization (PK/MW)
 )
 Package biblatex Info: Input encoding 'utf8' detected.
 Package biblatex Info: Automatic encoding selection.
@@ -1133,10 +1137,10 @@ LaTeX Warning: Citation 'GanttPRO' on page 2 undefined on input line 8.
 
 LaTeX Warning: Citation 'GanttPRO' on page 2 undefined on input line 8.
 
-[2]) (./Motivation.tex [3]) (./Relevance.tex) (./legal.tex) [4]
+[2]) (./Motivation.tex [3]) (./Relevance.tex) (./legal.tex) [4] [5]
 
-AED: lastpage setting LastPage
-[5] (./main.aux)
+enddocument/afterlastpage: lastpage setting LastPage.
+(./main.aux)
 
 LaTeX Warning: There were undefined references.
 
@@ -1152,10 +1156,10 @@ Package logreq Info: Writing requests to 'main.run.xml'.
 
  ) 
 Here is how much of TeX's memory you used:
- 33040 strings out of 476024
- 645835 string characters out of 5792021
- 1864388 words of memory out of 5000000
- 52959 multiletter control sequences out of 15000+600000
+ 33122 strings out of 476017
+ 648031 string characters out of 5791771
+ 1864666 words of memory out of 5000000
+ 53046 multiletter control sequences out of 15000+600000
  518485 words of font info for 54 fonts, out of 8000000 for 9000
  1141 hyphenation exceptions out of 8191
  99i,11n,94p,1878b,1819s stack positions out of 10000i,1000n,20000p,200000b,200000s
