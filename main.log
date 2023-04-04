@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.141592653-2.6-1.40.25 (TeX Live 2023) (preloaded format=pdflatex 2023.4.1)  4 APR 2023 14:03
+This is pdfTeX, Version 3.141592653-2.6-1.40.25 (TeX Live 2023) (preloaded format=pdflatex 2023.4.1)  4 APR 2023 15:31
 entering extended mode
  restricted \write18 enabled.
  file:line:error style messages enabled.
@@ -1132,12 +1132,9 @@ Package biblatex Info: Reference segment=0 on input line 44.
 {/opt/texlive/texdir/texmf-var/fonts/map/pdftex/updmap/pdftex.map}]) (./Team.te
 x [2]
 
-LaTeX Warning: Citation 'GanttPRO' on page 3 undefined on input line 12.
+LaTeX Warning: Citation 'GanttPRO' on page 3 undefined on input line 14.
 
-
-LaTeX Warning: Citation 'GanttPRO' on page 3 undefined on input line 12.
-
-[3]) (./Motivation.tex) (./Relevance.tex [4]) (./legal.tex) [5] [6]
+) (./Motivation.tex [3]) (./Relevance.tex [4]) (./legal.tex) [5] [6]
 
 enddocument/afterlastpage: lastpage setting LastPage.
 (./main.aux)
@@ -1158,11 +1155,11 @@ Package logreq Info: Writing requests to 'main.run.xml'.
 Here is how much of TeX's memory you used:
  33121 strings out of 476017
  648017 string characters out of 5791771
- 1864666 words of memory out of 5000000
+ 1865666 words of memory out of 5000000
  53045 multiletter control sequences out of 15000+600000
  518485 words of font info for 54 fonts, out of 8000000 for 9000
  1141 hyphenation exceptions out of 8191
- 99i,11n,94p,1889b,1819s stack positions out of 10000i,1000n,20000p,200000b,200000s
+ 99i,11n,94p,1966b,1819s stack positions out of 10000i,1000n,20000p,200000b,200000s
 </opt/texlive/texdir/texmf-dist/fonts/type1/public/amsfonts/cm/cmbx10.pfb></o
 pt/texlive/texdir/texmf-dist/fonts/type1/public/amsfonts/cm/cmbx12.pfb></opt/te
 xlive/texdir/texmf-dist/fonts/type1/public/amsfonts/cm/cmcsc10.pfb></opt/texliv
@@ -1171,7 +1168,7 @@ ir/texmf-dist/fonts/type1/public/amsfonts/cm/cmr12.pfb></opt/texlive/texdir/tex
 mf-dist/fonts/type1/public/amsfonts/cm/cmr17.pfb></opt/texlive/texdir/texmf-dis
 t/fonts/type1/public/amsfonts/cm/cmti10.pfb></opt/texlive/texdir/texmf-dist/fon
 ts/type1/public/amsfonts/cm/cmtt10.pfb>
-Output written on main.pdf (6 pages, 137562 bytes).
+Output written on main.pdf (6 pages, 137093 bytes).
 PDF statistics:
  153 PDF objects out of 1000 (max. 8388607)
  127 compressed objects within 2 object streams
