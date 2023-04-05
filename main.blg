@@ -23,45 +23,45 @@ Warning--I didn't find a database entry for "GanttPRO"
 Biblatex version: 3.19
 Reallocated wiz_functions (elt_size=4) to 9000 items from 6000.
 Reallocated singl_function (elt_size=4) to 100 items from 50.
-You've used 8 entries,
+You've used 9 entries,
             6399 wiz_defined-function locations,
-            1264 strings with 10875 characters,
-and the built_in function-call counts, 70739 in all, are:
-= -- 5999
-> -- 916
-< -- 305
-+ -- 1832
-- -- 301
-* -- 5249
-:= -- 7945
+            1272 strings with 11449 characters,
+and the built_in function-call counts, 75330 in all, are:
+= -- 6290
+> -- 1014
+< -- 349
++ -- 1904
+- -- 327
+* -- 5547
+:= -- 8283
 add.period$ -- 0
-call.type$ -- 8
-change.case$ -- 208
+call.type$ -- 9
+change.case$ -- 238
 chr.to.int$ -- 43
-cite$ -- 14
-duplicate$ -- 6568
-empty$ -- 6279
-format.name$ -- 495
-if$ -- 14563
+cite$ -- 16
+duplicate$ -- 7052
+empty$ -- 6744
+format.name$ -- 542
+if$ -- 15592
 int.to.chr$ -- 0
-int.to.str$ -- 21
+int.to.str$ -- 24
 missing$ -- 0
-newline$ -- 290
-num.names$ -- 433
-pop$ -- 2607
+newline$ -- 319
+num.names$ -- 496
+pop$ -- 2933
 preamble$ -- 1
-purify$ -- 249
+purify$ -- 281
 quote$ -- 0
-skip$ -- 1650
+skip$ -- 1865
 stack$ -- 0
-substring$ -- 11795
-swap$ -- 1324
-text.length$ -- 211
-text.prefix$ -- 8
+substring$ -- 12219
+swap$ -- 1474
+text.length$ -- 236
+text.prefix$ -- 9
 top$ -- 1
-type$ -- 260
+type$ -- 294
 warning$ -- 0
-while$ -- 881
+while$ -- 917
 width$ -- 0
-write$ -- 283
+write$ -- 311
 (There was 1 warning)

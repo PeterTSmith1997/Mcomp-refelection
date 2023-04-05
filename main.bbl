@@ -92,6 +92,40 @@
     \field{year}{2010}
   \endentry
 
+  \entry{european_commission_regulation_2016}{misc}{}
+    \name{author}{1}{}{%
+      {{hash=E}{%
+         family={{European Commission}},
+         familyi={E\bibinitperiod},
+      }}%
+    }
+    \list{publisher}{1}{%
+      {European Commission}%
+    }
+    \keyw{ddm en m1.3 open_access}
+    \strng{namehash}{E1}
+    \strng{fullhash}{E1}
+    \field{labelnamesource}{author}
+    \field{labeltitlesource}{title}
+    \field{labelyear}{2016}
+    \field{labeldatesource}{}
+    \field{sortinit}{E}
+    \field{sortinithash}{E}
+    \field{abstract}{%
+    EU Datenschutzgrundverordnung (kurz: DS-GVO / auch: DSGVO) im Orginal mit
+  allen Sprachversionen%
+    }
+    \field{title}{Regulation ({EU}) 2016/679 of the {European} {Parliament} and
+  of the {Council} of 27 {April} 2016 on the protection of natural persons with
+  regard to the processing of personal data and on the free movement of such
+  data, and repealing {Directive} 95/46/{EC} ({General} {Data} {Protection}
+  {Regulation}) ({Text} with {EEA} relevance)}
+    \verb{url}
+    \verb https://eur-lex.europa.eu/eli/reg/2016/679/oj
+    \endverb
+    \field{year}{2016}
+  \endentry
+
   \entry{figg2006scientific}{article}{}
     \name{author}{7}{}{%
       {{hash=FWD}{%
