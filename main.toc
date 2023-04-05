@@ -5,7 +5,7 @@
 \contentsline {subsection}{\numberline {1.3}Risk}{2}{subsection.1.3}%
 \contentsline {section}{\numberline {2}Project Management}{2}{section.2}%
 \contentsline {section}{\numberline {3}Background, Motivation, Sources of Knowledge}{4}{section.3}%
-\contentsline {section}{\numberline {4}Relevance}{4}{section.4}%
+\contentsline {section}{\numberline {4}Relevance}{5}{section.4}%
 \contentsline {section}{\numberline {5}Ethics, Legal, Social, Security and Professional Issues}{5}{section.5}%
 \contentsline {subsection}{\numberline {5.1}Ethics and Legal Issues}{5}{subsection.5.1}%
-\contentsline {section}{\numberline {6}bibliography}{5}{section.6}%
+\contentsline {section}{\numberline {6}bibliography}{6}{section.6}%
