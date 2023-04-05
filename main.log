@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.141592653-2.6-1.40.25 (TeX Live 2023) (preloaded format=pdflatex 2023.4.1)  5 APR 2023 14:13
+This is pdfTeX, Version 3.141592653-2.6-1.40.25 (TeX Live 2023) (preloaded format=pdflatex 2023.4.1)  5 APR 2023 15:16
 entering extended mode
  restricted \write18 enabled.
  file:line:error style messages enabled.
@@ -1134,7 +1134,7 @@ x [2]
 
 LaTeX Warning: Citation 'GanttPRO' on page 3 undefined on input line 14.
 
-[3]) (./Motivation.tex [4]) (./Relevance.tex) (./legal.tex) [5] [6]
+[3]) (./Motivation.tex) (./Relevance.tex [4]) (./legal.tex) [5] [6]
 
 enddocument/afterlastpage: lastpage setting LastPage.
 (./main.aux)
@@ -1153,13 +1153,13 @@ Package logreq Info: Writing requests to 'main.run.xml'.
 
  ) 
 Here is how much of TeX's memory you used:
- 33121 strings out of 476017
- 648017 string characters out of 5791771
+ 33128 strings out of 476017
+ 648254 string characters out of 5791771
  1864666 words of memory out of 5000000
- 53045 multiletter control sequences out of 15000+600000
+ 53051 multiletter control sequences out of 15000+600000
  518485 words of font info for 54 fonts, out of 8000000 for 9000
  1141 hyphenation exceptions out of 8191
- 99i,12n,94p,1966b,1819s stack positions out of 10000i,1000n,20000p,200000b,200000s
+ 99i,11n,94p,1966b,1819s stack positions out of 10000i,1000n,20000p,200000b,200000s
 </opt/texlive/texdir/texmf-dist/fonts/type1/public/amsfonts/cm/cmbx10.pfb></o
 pt/texlive/texdir/texmf-dist/fonts/type1/public/amsfonts/cm/cmbx12.pfb></opt/te
 xlive/texdir/texmf-dist/fonts/type1/public/amsfonts/cm/cmcsc10.pfb></opt/texliv
@@ -1168,10 +1168,10 @@ ir/texmf-dist/fonts/type1/public/amsfonts/cm/cmr12.pfb></opt/texlive/texdir/tex
 mf-dist/fonts/type1/public/amsfonts/cm/cmr17.pfb></opt/texlive/texdir/texmf-dis
 t/fonts/type1/public/amsfonts/cm/cmti10.pfb></opt/texlive/texdir/texmf-dist/fon
 ts/type1/public/amsfonts/cm/cmtt10.pfb>
-Output written on main.pdf (6 pages, 138193 bytes).
+Output written on main.pdf (6 pages, 138998 bytes).
 PDF statistics:
- 153 PDF objects out of 1000 (max. 8388607)
- 127 compressed objects within 2 object streams
- 25 named destinations out of 1000 (max. 500000)
+ 155 PDF objects out of 1000 (max. 8388607)
+ 129 compressed objects within 2 object streams
+ 26 named destinations out of 1000 (max. 500000)
  93 words of extra memory for PDF output out of 10000 (max. 10000000)
 
