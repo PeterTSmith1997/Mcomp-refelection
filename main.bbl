@@ -192,6 +192,35 @@
     \field{year}{2006}
   \endentry
 
+  \entry{holloway2001experience}{article}{}
+    \name{author}{1}{}{%
+      {{hash=HS}{%
+         family={Holloway},
+         familyi={H\bibinitperiod},
+         given={Sarah},
+         giveni={S\bibinitperiod},
+      }}%
+    }
+    \list{publisher}{1}{%
+      {Taylor \& Francis}%
+    }
+    \strng{namehash}{HS1}
+    \strng{fullhash}{HS1}
+    \field{labelnamesource}{author}
+    \field{labeltitlesource}{title}
+    \field{labelyear}{2001}
+    \field{labeldatesource}{}
+    \field{sortinit}{H}
+    \field{sortinithash}{H}
+    \field{number}{4}
+    \field{pages}{597\bibrangedash 615}
+    \field{title}{The experience of higher education from the perspective of
+  disabled students}
+    \field{volume}{16}
+    \field{journaltitle}{Disability \& Society}
+    \field{year}{2001}
+  \endentry
+
   \entry{levasseur2010people}{article}{}
     \name{author}{1}{}{%
       {{hash=LRE}{%
