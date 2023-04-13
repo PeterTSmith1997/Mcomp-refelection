@@ -373,6 +373,34 @@
     \warn{\item Invalid format of field 'month'}
   \endentry
 
+  \entry{GanttPRO}{online}{}
+    \name{author}{1}{}{%
+      {{hash=SA}{%
+         family={Stepanov},
+         familyi={S\bibinitperiod},
+         given={Andrew},
+         giveni={A\bibinitperiod},
+      }}%
+    }
+    \strng{namehash}{SA1}
+    \strng{fullhash}{SA1}
+    \field{labelnamesource}{author}
+    \field{labeltitlesource}{title}
+    \field{labelyear}{2017}
+    \field{labeldatesource}{}
+    \field{sortinit}{S}
+    \field{sortinithash}{S}
+    \field{note}{Online; accessed 10/04/2020}
+    \field{title}{10 Most Typical Pitfalls in Project Management and Ways to
+  Avoid Them}
+    \verb{url}
+    \verb https://blog.ganttpro.com/en/top-project-management-pitfalls-to-avoid
+    \verb /
+    \endverb
+    \field{month}{08}
+    \field{year}{2017}
+  \endentry
+
   \entry{thurow1999dynamics}{article}{}
     \name{author}{4}{}{%
       {{hash=TAP}{%
