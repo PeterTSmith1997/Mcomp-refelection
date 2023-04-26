@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.141592653-2.6-1.40.25 (TeX Live 2023) (preloaded format=pdflatex 2023.4.1)  26 APR 2023 12:39
+This is pdfTeX, Version 3.141592653-2.6-1.40.25 (TeX Live 2023) (preloaded format=pdflatex 2023.4.1)  26 APR 2023 15:38
 entering extended mode
  restricted \write18 enabled.
  file:line:error style messages enabled.
@@ -1130,25 +1130,42 @@ Package biblatex Info: Reference segment=0 on input line 44.
  (./sor.tex [1
 
 {/opt/texlive/texdir/texmf-var/fonts/map/pdftex/updmap/pdftex.map}]) (./Team.te
-x [2] [3]) (./Motivation.tex) (./Relevance.tex
-[4]) (./legal.tex) [5] [6]
+x
+Overfull \hbox (41.77856pt too wide) in paragraph at lines 1--2
+\OT1/cmr/m/n/10 in a sci-en-tific the-ory or com-mit-ment to their own find-ing
+s (https://www.ncbi.nlm.nih.gov/pmc/articles/PMC1182327/)
+ []
+
+[2] [3]) (./Motivation.tex
+
+LaTeX Warning: Citation 'dewey_1917' on page 4 undefined on input line 8.
+
+) (./Relevance.tex) [4] (./legal.tex) [5] [6]
 
 enddocument/afterlastpage: lastpage setting LastPage.
 (./main.aux)
+
+LaTeX Warning: There were undefined references.
+
 Package rerunfilecheck Info: File `main.out' has not changed.
 (rerunfilecheck)             Checksum: 53EBC841F3FAFB7CD8A878686F9E269E;1479.
+
+Package biblatex Warning: Please (re)run BibTeX on the file(s):
+(biblatex)                main
+(biblatex)                and rerun LaTeX afterwards.
+
 Package logreq Info: Writing requests to 'main.run.xml'.
 \openout1 = `main.run.xml'.
 
  ) 
 Here is how much of TeX's memory you used:
- 33165 strings out of 476017
- 649600 string characters out of 5791771
+ 33158 strings out of 476017
+ 649353 string characters out of 5791771
  1865666 words of memory out of 5000000
- 53083 multiletter control sequences out of 15000+600000
+ 53077 multiletter control sequences out of 15000+600000
  518485 words of font info for 54 fonts, out of 8000000 for 9000
  1141 hyphenation exceptions out of 8191
- 99i,12n,94p,1966b,1819s stack positions out of 10000i,1000n,20000p,200000b,200000s
+ 99i,11n,94p,1966b,1819s stack positions out of 10000i,1000n,20000p,200000b,200000s
 </opt/texlive/texdir/texmf-dist/fonts/type1/public/amsfonts/cm/cmbx10.pfb></o
 pt/texlive/texdir/texmf-dist/fonts/type1/public/amsfonts/cm/cmbx12.pfb></opt/te
 xlive/texdir/texmf-dist/fonts/type1/public/amsfonts/cm/cmcsc10.pfb></opt/texliv
@@ -1157,10 +1174,10 @@ ir/texmf-dist/fonts/type1/public/amsfonts/cm/cmr12.pfb></opt/texlive/texdir/tex
 mf-dist/fonts/type1/public/amsfonts/cm/cmr17.pfb></opt/texlive/texdir/texmf-dis
 t/fonts/type1/public/amsfonts/cm/cmti10.pfb></opt/texlive/texdir/texmf-dist/fon
 ts/type1/public/amsfonts/cm/cmtt10.pfb>
-Output written on main.pdf (6 pages, 149112 bytes).
+Output written on main.pdf (6 pages, 149136 bytes).
 PDF statistics:
- 168 PDF objects out of 1000 (max. 8388607)
- 142 compressed objects within 2 object streams
- 31 named destinations out of 1000 (max. 500000)
+ 165 PDF objects out of 1000 (max. 8388607)
+ 139 compressed objects within 2 object streams
+ 30 named destinations out of 1000 (max. 500000)
  93 words of extra memory for PDF output out of 10000 (max. 10000000)
 
