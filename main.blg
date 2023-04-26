@@ -19,47 +19,49 @@ Reallocated singl_function (elt_size=4) to 100 items from 50.
 Reallocated singl_function (elt_size=4) to 100 items from 50.
 Database file #1: main-blx.bib
 Database file #2: writing.bib
+Warning--I didn't find a database entry for "dewey_1917"
 Biblatex version: 3.19
 Reallocated wiz_functions (elt_size=4) to 9000 items from 6000.
 Reallocated singl_function (elt_size=4) to 100 items from 50.
-You've used 13 entries,
+You've used 12 entries,
             6399 wiz_defined-function locations,
-            1299 strings with 12011 characters,
-and the built_in function-call counts, 94130 in all, are:
-= -- 7486
-> -- 1373
-< -- 477
-+ -- 2305
-- -- 429
-* -- 6812
-:= -- 9935
+            1293 strings with 11883 characters,
+and the built_in function-call counts, 88341 in all, are:
+= -- 7065
+> -- 1287
+< -- 448
++ -- 2205
+- -- 405
+* -- 6366
+:= -- 9398
 add.period$ -- 0
-call.type$ -- 13
-change.case$ -- 317
+call.type$ -- 12
+change.case$ -- 298
 chr.to.int$ -- 49
-cite$ -- 24
-duplicate$ -- 9250
-empty$ -- 8589
-format.name$ -- 733
-if$ -- 19603
+cite$ -- 22
+duplicate$ -- 8704
+empty$ -- 8003
+format.name$ -- 685
+if$ -- 18359
 int.to.chr$ -- 0
-int.to.str$ -- 35
+int.to.str$ -- 32
 missing$ -- 0
-newline$ -- 430
-num.names$ -- 702
-pop$ -- 4252
+newline$ -- 402
+num.names$ -- 651
+pop$ -- 3924
 preamble$ -- 1
-purify$ -- 368
+purify$ -- 347
 quote$ -- 0
-skip$ -- 2611
+skip$ -- 2428
 stack$ -- 0
-substring$ -- 13924
-swap$ -- 2081
-text.length$ -- 329
-text.prefix$ -- 13
+substring$ -- 13129
+swap$ -- 1929
+text.length$ -- 307
+text.prefix$ -- 12
 top$ -- 1
-type$ -- 430
+type$ -- 396
 warning$ -- 0
-while$ -- 1140
+while$ -- 1085
 width$ -- 0
-write$ -- 418
+write$ -- 391
+(There was 1 warning)
